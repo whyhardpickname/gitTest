@@ -10,5 +10,6 @@ public class git {
         System.out.println("hello,git.");
         System.out.println("hello,git.");
         System.out.println("hello,git.master");
+        System.out.println("hello,hotfix.");
     }
 }
